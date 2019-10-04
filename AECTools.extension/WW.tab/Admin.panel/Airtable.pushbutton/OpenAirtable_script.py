@@ -2,7 +2,7 @@
 from pyrevit import script
 from pyrevit.versionmgr import urls
 
-__name__="R1T1"
+__name__="Open WW Projects Airtable"
 __context__ = 'zerodoc'
 
 

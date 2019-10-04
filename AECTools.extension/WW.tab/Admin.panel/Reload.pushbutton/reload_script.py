@@ -9,7 +9,7 @@ from pyrevit.loader import sessioninfo
 __title__ = "Reload Tools"
 __cleanengine__ = True
 __context__ = 'zerodoc'
-__doc__ = 'Searches the script folders and created buttons ' \
+__doc__ = 'Searches the script folders ' \
           'for new scripts or newly installed extensions.'
 
 
